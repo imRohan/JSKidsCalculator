@@ -1,0 +1,56 @@
+/* ==========================================================================
+   Calculator custom styles
+   ========================================================================== */
+.calculator-container{
+    display: block;
+    width: 80%;
+    height: 400px;
+    background: red;
+    margin: 0 auto;
+    margin-top: 25%;
+    text-align: center;
+}
+
+.answer{
+    padding: 30px;
+    text-align: center;
+    font-size: 3em;
+    color: white;
+    font-weight: 700;
+}
+
+.input-container{
+    padding-top: 40px;
+}
+
+input{
+    line-height: normal;
+    border: none;
+    padding: 1em;
+    font-size: 1em;
+    color: grey;
+}
+
+select.operator{
+    padding: 15px;
+    font-size: 2em;
+    background: none;
+    border: none;
+}
+
+.answer-button{
+    padding-top: 20px;
+}
+button.calculate{
+    width: 300px;
+    height: 70px;
+    border: none;
+    background: green;
+}
+
+
+
+
+
+
+
